@@ -3,10 +3,12 @@
 
 Twinkly integration for home assistant
 
-# Setup with hass.io
-- Download twinkly.py to /config/python_scripts/
-- Add the following switch config to configuration.yaml
-- Make sure to replace TWINKLY_IP_HERE with the IP address of your twinkly lights (3 occurrences)
+# Installation
+Install with [HACS](https://github.com/custom-components/hacs) or follow these instructions for manual installation:
+
+- Copy `/python_scripts/twinkly.py` to your `/config/python_scripts/`
+- Add the following `switch` to `/config/configuration.yaml`
+- Replace TWINKLY_IP_HERE with the IP address of your Twinkly lights (3 occurrences)
 
 ```
 switch:
