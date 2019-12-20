@@ -1,4 +1,6 @@
-# home-assistant-twinkly
+# Twinkly Home Assistant
+[![hacs_badge][hacs-shield]][hacs]
+
 Twinkly integration for home assistant
 
 # Setup with hass.io
