@@ -19,3 +19,6 @@ switch:
         value_template: "{{ value == \"1\" }}"
         friendly_name: Twinkly
 ```
+
+[hacs-shield]: https://img.shields.io/badge/HACS-Default-orange.svg
+[hacs]: https://github.com/custom-components/hacs
